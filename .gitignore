@@ -1,0 +1,6 @@
+*.code-workspace
+
+
+# Pliki PDF
+PYTHON_PDF*
+*.pdf
